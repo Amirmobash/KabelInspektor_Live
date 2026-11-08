@@ -1,5 +1,11 @@
 # KabelInspektor_Live
 
+
+<p align="center"><img src="docs/images/opencv-live-cable-defect-width-inspection.svg" alt="OpenCV live cable and wire defect inspection using a webcam" width="960" /></p>
+
+<sub>Illustrative project schematic; not an actual CAD export, hardware photograph, or independently tested result.</sub>
+
+
 # KabelInspektor Live — Webcam-based Cable Defect Detection
 
 **KabelInspektor Live** is a lightweight, offline-capable computer-vision tool (Python/OpenCV) for live inspection of cables and wires using a webcam.  
